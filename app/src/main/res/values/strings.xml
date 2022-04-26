@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewKotlin</string>
+    <string name="gambar_pantai">gambar pantai</string>
+</resources>
